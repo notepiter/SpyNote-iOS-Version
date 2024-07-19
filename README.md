@@ -4,7 +4,7 @@
 <h1 align=center>SpyNote iOS Version</h1>
 
 ## Get The Best Android Rat On The Market, SpyNote iOS Version
-This private version of android rat We Start Work on SpyNote X as private project we promise to give private functions and work hard to give best service for our customers
+This private version of android rat We Start Work on SpyNote iOS Version as private project we promise to give private functions and work hard to give best service for our customers
 ## buy now
 <div align="center">
   <a href="https://telegram.me/SpynoteRat">
@@ -13,7 +13,7 @@ This private version of android rat We Start Work on SpyNote X as private projec
 </div>
 
 
-
+ <img src="1.png" alt="Screenshot 1" style="max-width: 100%; height: auto;" />
 
 
 OUTSTANDING FEATURES
